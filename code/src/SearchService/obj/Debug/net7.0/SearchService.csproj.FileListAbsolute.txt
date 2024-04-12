@@ -41,3 +41,4 @@ C:\Users\aqasy\Desktop\.NET-Microservices\code\src\SearchService\obj\Debug\net7.
 C:\Users\aqasy\Desktop\.NET-Microservices\code\src\SearchService\obj\Debug\net7.0\SearchService.pdb
 C:\Users\aqasy\Desktop\.NET-Microservices\code\src\SearchService\obj\Debug\net7.0\SearchService.genruntimeconfig.cache
 C:\Users\aqasy\Desktop\.NET-Microservices\code\src\SearchService\obj\Debug\net7.0\ref\SearchService.dll
+C:\Users\aqasy\Desktop\.NET-Microservices\code\src\SearchService\bin\Debug\net7.0\Data\auctions.json
