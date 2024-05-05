@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CgpRP6XFvaS+Y2jKYTnVmtQMsWc5NBTPbU7mT8s1+M+OBSFhCxqeo5YyjbhAknqTaKvbByfG9T1dr4VdAW0ZMA==",
+  "dgSpecHash": "T2gh4MMJ3L+25egm/7lPYHKKgflXEVTqlS6CR9Swnsq+EnjnJPgGToP9uSvhWDw98I2NsIqYIkcV4KKgHkFAlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aqasy\\Documents\\personals\\Courses\\.NET-Microservices\\code\\src\\SearchService\\SearchService.csproj",
   "expectedPackageFiles": [
@@ -44,7 +44,11 @@
     "C:\\Users\\aqasy\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\aqasy\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\aqasy\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\aqasy\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+    "C:\\Users\\aqasy\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
+    "C:\\Users\\aqasy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\aqasy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\aqasy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\aqasy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }
